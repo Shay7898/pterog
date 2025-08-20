@@ -8,7 +8,7 @@ on:
 jobs:
   vps-session:
     runs-on: ubuntu-latest
-    timeout-minutes: 350  # Just under 6 hours
+    timeout-minutes: 345  # Just under 6 hours
  
     steps:
       - name: Checkout repo
@@ -90,3 +90,14 @@ jobs:
         with:
           name: vps-backup
           path: backup.zip
+ 
+ 
+TAILSCALE_AUTHKEY
+ 
+your key inside it 
+ 
+https://github.com/How2MCoffc/Get-SSL-at-localhost
+ 
+ 
+https://pterodactyl.io/
+ 
